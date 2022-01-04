@@ -1,0 +1,13 @@
+## Overview 
+In this code I have implemented how basic LSTM, and CNN works for Sarcasm Detection across different word/sentence embeddings.
+
+saved folder is not included due to size constraints
+
+### included
+1. plots_lstm, results_lstm for RNN based analysis
+2. plots_cnn, results_cnn for CNN based analysis
+3. baseline.pdf (paper from where dataset is used)
+
+### To Do
+1. Implement novel models
+2. Write paper
